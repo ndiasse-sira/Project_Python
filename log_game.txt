@@ -1,0 +1,28 @@
+Niveau Facile:
+Le score est 12
+
+Le nombre de tentatives est 3
+
+Vous etes a votre partie n'2
+
+Niveau Facile:
+Le score est 9
+
+Le nombre de tentatives est 3
+
+Vous etes a votre partie n'2
+
+Niveau Moyen:
+Le score est 21
+
+Le nombre de tentatives est 3
+
+Vous etes a votre partie n'2
+
+Niveau Facile:
+Le score est 12
+
+Le nombre de tentatives est 2
+
+Vous etes a votre partie n'2
+
