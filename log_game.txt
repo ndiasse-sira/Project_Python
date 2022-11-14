@@ -1,0 +1,112 @@
+Niveau Facile:
+Le score est 12
+
+Le nombre de tentatives est 3
+
+Vous etes a votre partie n'2
+
+Niveau Facile:
+Le score est 9
+
+Le nombre de tentatives est 3
+
+Vous etes a votre partie n'2
+
+Niveau Moyen:
+Le score est 21
+
+Le nombre de tentatives est 3
+
+Vous etes a votre partie n'2
+
+Niveau Facile:
+Le score est 12
+
+Le nombre de tentatives est 2
+
+Vous etes a votre partie n'2
+
+Niveau Moyen:
+Le score est 0
+
+Le nombre de tentatives est 6
+
+Vous etes a votre partie n'2
+
+Niveau Moyen:
+Le score est 18
+
+Le nombre de tentatives est 3
+
+Vous etes a votre partie n'2
+
+Niveau Difficile:
+Le score est 24
+
+Le nombre de tentatives est 4
+
+Vous etes a votre partie n'2
+
+Niveau Facile:
+Le score est 6
+
+Le nombre de tentatives est 4
+
+Vous etes a votre partie n'2
+
+Niveau Moyen:
+Le score est 0
+
+Le nombre de tentatives est 6
+
+Vous etes a votre partie n'2
+
+Niveau Difficile:
+Le score est 0
+
+Le nombre de tentatives est 6
+
+Vous etes a votre partie n'2
+
+Niveau Facile:
+Le score est 16
+
+Le nombre de tentatives est 2
+
+Vous etes a votre partie n'2
+
+Niveau Difficile:
+Le score est 16
+
+Le nombre de tentatives est 2
+
+Vous etes a votre partie n'2
+
+Niveau Moyen:
+Le score est 0
+
+Le nombre de tentatives est 6
+
+Vous etes a votre partie n'2
+
+Niveau Moyen:
+Le score est 0
+
+Le nombre de tentatives est 6
+
+Vous etes a votre partie n'2
+
+Niveau Moyen:
+Le score est 0
+
+Le nombre de tentatives est 6
+
+Vous etes a votre partie n'2
+
+Niveau Facile:
+Le score est 6
+
+Le nombre de tentatives est 4
+
+Vous etes a votre partie n'2
+
