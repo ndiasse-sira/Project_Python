@@ -4,4 +4,4 @@ bouger
 manger 
 partir 
 partira
-mangera
+mangera 
